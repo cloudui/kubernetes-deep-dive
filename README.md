@@ -1,0 +1,6 @@
+# kubernetes-deep-dive
+A deep dive into Kubernetes...
+ 
+Took an introductory course about Kubernetes and wanted to share them with others...
+
+Notion link: https://ericchen314.notion.site/Kubernetes-Deep-Dive-6b4719c4ace44f099e92e4dcfb806b5e
